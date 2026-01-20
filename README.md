@@ -30,9 +30,8 @@ This project was built to practice DOM manipulation, form handling, and real-wor
 - **JavaScript** – Logic & interactivity
 
 ## 📸 Screenshots
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/6bad89c0-a62d-41b1-8fd6-f8909862b541" />
-<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/6a29ccf9-fa3d-43d9-afa7-9a9d9c8b6b8f" />
-<img width="1917" height="130" alt="image" src="https://github.com/user-attachments/assets/b51f5257-a22b-49eb-9552-42d486eb44e5" />
+<img width="1763" height="1894" alt="image" src="https://github.com/user-attachments/assets/57f4f5a2-472b-4536-8196-11057d92b4bf" />
+
 
 
 
